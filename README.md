@@ -1,4 +1,5 @@
-## Hi there 👋
+### About Me 👋
+Hey, I’m Wayne — a Computer Science student at the University of Toronto who loves coding, learning, and creating. I’m interested in software development, algorithms, and building projects that solve real problems. Most of my repositories show my journey of experimenting, improving, and having fun with code.
 
 <!--
 **Wayne-cyw/Wayne-cyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
